@@ -1,2 +1,3 @@
-print("hi")
-print("first")
+print("Hi")
+print("First")
+print("Sec")
